@@ -1,0 +1,14 @@
+name: LGA_dashboard
+title: LGA_dashboard
+username:
+account: maria-victoria-diaz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5407873
+bundleId: 5446067
+url: https://maria-victoria-diaz.shinyapps.io/LGA_dashboard/
+when: 1641599954.5562
+lastSyncTime: 1641599954.5562
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: scripts_originals/server.R|scripts_originals/ui.R
